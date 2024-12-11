@@ -1,0 +1,1 @@
+Exports default appcontroller
